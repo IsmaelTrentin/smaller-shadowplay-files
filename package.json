@@ -1,7 +1,7 @@
 {
-  "name": "spbetter",
-  "version": "0.0.1",
-  "description": "encode shadow play output for better size",
+  "name": "smaller-shadowplay-files",
+  "version": "0.0.2",
+  "description": "encode shadow play output files using ffmpeg for better size",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
