@@ -1,0 +1,4 @@
+dist
+node_modules
+test_*
+cmd.txt
