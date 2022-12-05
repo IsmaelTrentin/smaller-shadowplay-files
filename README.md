@@ -9,6 +9,7 @@ sspf <-p <path>> [-w <maxWorkers>]
 ```
 
 > Default `path` is `cwd`
+
 > Default `maxWorkers` is `2`
 
 ## Super scuffed benchmark
