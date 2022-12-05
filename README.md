@@ -5,7 +5,7 @@ small tool for **losslessly** encoding Nvidia shadowplay output files so that i 
 ## Usage
 
 ```bash
-> sspf <-p <path>> [-w <maxWorkers>]
+sspf <-p <path>> [-w <maxWorkers>]
 ```
 
 > Default `path` is `cwd`
