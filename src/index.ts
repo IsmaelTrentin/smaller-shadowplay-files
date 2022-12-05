@@ -14,12 +14,6 @@ const main = async () => {
       type: 'string',
       description: 'path',
     })
-    .option('ext', {
-      alias: 'e',
-      type: 'string',
-      default: 'mp4',
-      description: 'file extension',
-    })
     .option('workers', {
       alias: 'w',
       type: 'number',
